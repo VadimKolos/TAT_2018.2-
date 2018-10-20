@@ -1,7 +1,0 @@
-D:\cworkspace\myfstprojectt\myfstprojectt\bin\Debug\myfstprojectt.exe.config
-D:\cworkspace\myfstprojectt\myfstprojectt\bin\Debug\myfstprojectt.exe
-D:\cworkspace\myfstprojectt\myfstprojectt\bin\Debug\myfstprojectt.pdb
-D:\cworkspace\myfstprojectt\myfstprojectt\obj\Debug\myfstprojectt.csprojAssemblyReference.cache
-D:\cworkspace\myfstprojectt\myfstprojectt\obj\Debug\myfstprojectt.csproj.CoreCompileInputs.cache
-D:\cworkspace\myfstprojectt\myfstprojectt\obj\Debug\myfstprojectt.exe
-D:\cworkspace\myfstprojectt\myfstprojectt\obj\Debug\myfstprojectt.pdb
