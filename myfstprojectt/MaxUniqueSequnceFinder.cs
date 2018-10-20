@@ -11,7 +11,7 @@ namespace myfstprojectt
         char[] massiv;
         public void enter(string[] args) //enter the string
         {
-            Console.Write("enter the string: ");
+            Console.Write("enter the symbols: ");
            
             string str = null;
             if (args.Length != 0)

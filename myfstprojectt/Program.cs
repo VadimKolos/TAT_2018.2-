@@ -11,7 +11,7 @@ namespace myfstprojectt
         static void Main(string[] args)
         {
             MaxUniqueSequnceFinder name = new MaxUniqueSequnceFinder();
-            name.enter(args);
+            name.enter(args); // method from MaxUniqueSequnceFinder
             name.check();
         }
     }
